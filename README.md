@@ -1,5 +1,6 @@
 # TechnoHacks-Python-Developer
 TechnoHacks Python Developer internship tasks
+
 Task 1 Calculator
 
 Task 2 Currency Converter
